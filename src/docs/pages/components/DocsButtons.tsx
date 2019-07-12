@@ -33,7 +33,7 @@ const codeSnippetButton =
   `import {
   Button,
   ButtonGroup,
-} from ''@ht2-labs/mural/Button';
+} from '@ht2-labs/mural/Button';
 <ButtonGroup>
   <Button>Button</Button>
   <Button disabled>Button</Button>
